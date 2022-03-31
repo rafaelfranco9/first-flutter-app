@@ -1,2 +1,1 @@
--En el archivo plan_options_data.dart puse la informacion de las cards para simular que lo estoy recibiendo del servidor.
--En la imagen que me enviaste solo habian 2 cards, agregue una mas que tambien tuviera el boton habilitado para poder mostrar el funcionamiento de seleccion y deseleccion entre los botones.
+## First Flutter App
